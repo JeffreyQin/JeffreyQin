@@ -1,5 +1,4 @@
-![Header Image](https://github.com/JeffreyQin/JeffreyQin/assets/122770444/d8a4eb60-aa54-4abf-aba7-6cf3f8b6cc6a)
-
+![Header Image](https://github.com/JeffreyQin/JeffreyQin/assets/122770444/dd1e01be-8d40-44d5-b132-e13c4fb07dc4)
 
 I'm currently studying computer science at the University of Waterloo, motivated by a passion to create software that brings my innovative ideas to life. My professional skillset spans across machine learning and full-stack website development, with interests in game design and hardware.
 
