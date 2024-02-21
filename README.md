@@ -1,4 +1,5 @@
-## Hey, I'm Jeffrey👋
+![Header Image](https://github.com/JeffreyQin/JeffreyQin/assets/122770444/d8a4eb60-aa54-4abf-aba7-6cf3f8b6cc6a)
+
 
 I'm currently studying computer science at the University of Waterloo, motivated by a passion to create software that brings my innovative ideas to life. My professional skillset spans across machine learning and full-stack website development, with interests in game design and hardware.
 
@@ -13,6 +14,7 @@ I'm currently studying computer science at the University of Waterloo, motivated
 
 
 ### 💬 Let's Chat
+
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeffreyzqin/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jqin612)
