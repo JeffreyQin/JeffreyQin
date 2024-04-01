@@ -11,7 +11,12 @@ I'm currently studying computer science at the University of Waterloo, motivated
 - **Languages I speak**: Python, C/C++, Java, HTML, CSS, JavaScript/TypeScript, C#, SQL, R
 - **Machine Learning & Data Science**: PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, LangChain, OpenCV
 - **Frontend & Backend Development**: Express.js, React.js, Three.js, Flask, PostgreSQL, MongoDB, CouchDB, Postman
-- **My Toolbox**: Jupyter Notebook, Linux, Git, Docker, AWS (S3, SageMaker, EC2), Unity
+- **My Toolbox**: Jupyter Notebook, Linux, Git, Docker, AWS (S3, SageMaker, EC2), Unity, Google Cloud
+
+### 🎨 A bit more stuff
+
+- I was a past invitee to USA's and Canada's National Mathematical Olympiads
+- Check out my personal art gallery [@bathtub.612](https://www.instagram.com/bathtub.612/), or my piano archive [@bubbletea.612](https://www.instagram.com/bubbletea.612/) on Instagram
 
 
 ### 💬 Let's Chat
