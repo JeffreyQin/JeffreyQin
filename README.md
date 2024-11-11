@@ -10,8 +10,8 @@ I'm currently studying computer science at the University of Waterloo, motivated
 
 - **Languages I speak**: Python, C/C++, Java, HTML, CSS, JavaScript/TypeScript, C#, SQL, R
 - **Machine Learning & Data Science**: PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, LangChain, OpenCV
-- **Frontend & Backend Development**: Express.js, React.js, Three.js, Flask, PostgreSQL, MongoDB, CouchDB, Postman
-- **My Toolbox**: Jupyter Notebook, Linux, Git, Docker, AWS (S3, SageMaker, EC2), Unity, Google Cloud
+- **Frontend & Backend Development**: React.js, Express.js, Flask, Spring Boot, PostgreSQL, MongoDB, CouchDB, Postman
+- **My Toolbox**: Jupyter Notebook, Linux, Git, Docker, Kubernetes, AWS (S3, SageMaker, EC2), Jira, Jenkins, Unity, Google Cloud
 
 ### 🎨 A bit more stuff
 
