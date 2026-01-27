@@ -2,16 +2,14 @@
 
 
 ### ✨ About Me
-I'm currently studying computer science at the University of Waterloo, motivated by passion to create software that brings my innovative ideas to life. My professional skillset spans across machine learning and full-stack website development, with interests in game design and hardware.
-
+I'm currently studying computer science at the University of Waterloo, motivated by passion to create software that brings my innovative ideas to life
 
 ### 🛠️ What's in my Pocket
 
-
-- **Languages I speak**: Python, C/C++, Java, HTML, CSS, JavaScript/TypeScript, C#, SQL, R
-- **Machine Learning & Data Science**: PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, LangChain, OpenCV
-- **Frontend & Backend Development**: React.js, Express.js, Flask, Spring Boot, PostgreSQL, MongoDB, CouchDB, Postman
-- **My Toolbox**: Jupyter Notebook, Linux, Git, Docker, Kubernetes, AWS (S3, SageMaker, EC2), Jira, Jenkins, Unity, Google Cloud
+- **Languages I speak**: Python, C/C++, Java, JavaScript/TypeScript, SQL, R
+- **Machine Learning & Data Science**: PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, LangChain, Jupyter Notebook
+- **Frontend & Backend Development**: React.js, Express.js, Streamlit, Flask, Spring Boot, PostgreSQL, MongoDB
+- **My Toolbox**: Linux, Git, Docker, Kubernetes, AWS (S3, SageMaker, EC2)
 
 ### 🎨 A bit more stuff
 
