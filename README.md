@@ -2,14 +2,19 @@
 
 
 ### ✨ About Me
-I'm currently studying computer science at the University of Waterloo, motivated by passion to create software that brings my innovative ideas to life
+I'm studying computer science at the University of Waterloo with specialization in artificial intelligence.
 
 ### 🛠️ What's in my Pocket
 
 - **Languages I speak**: Python, C/C++, Java, JavaScript/TypeScript, SQL, R
-- **Machine Learning & Data Science**: PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas, Matplotlib, LangChain, Jupyter Notebook
-- **Frontend & Backend Development**: React.js, Express.js, Streamlit, Flask, Spring Boot, PostgreSQL, MongoDB
-- **My Toolbox**: Linux, Git, Docker, Kubernetes, AWS (S3, SageMaker, EC2)
+- **ML & Data**: PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas
+- **Web Dev**: React.js, Express.js, Streamlit, Flask, FastAPI, Spring Boot, PostgreSQL, MongoDB
+- **My Toolbox**: Linux, Git, Docker, Kubernetes, Jupyter, AWS (S3, SageMaker, EC2)
+
+### 🎓 Check out my Publications
+
+*Planning with generative cognitive maps* [🔗](https://openreview.net/forum?id=yngrXhuHbj)
+
 
 ### 🎨 A bit more stuff
 
