@@ -10,11 +10,7 @@ I'm studying computer science at the University of Waterloo with specialization 
 - **ML & Data**: PyTorch, TensorFlow, Scikit-learn, NumPy, Pandas
 - **Web Dev**: React.js, Express.js, Streamlit, Flask, FastAPI, Spring Boot, PostgreSQL, MongoDB
 - **My Toolbox**: Linux, Git, Docker, Kubernetes, Jupyter, AWS (S3, SageMaker, EC2)
-
-### 🎓 Check out my Publications
-
-*Planning with generative cognitive maps* [🔗](https://openreview.net/forum?id=yngrXhuHbj)
-
+  
 
 ### 🎨 A bit more stuff
 
